@@ -2,7 +2,7 @@
 ### Gostaria de aprender mais e conhecer novas pessoas e projetos,</br> aos quais gostaria de ser útil marcando minha passagem de alguma forma.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daniloamorim&label=Profile%20views&color=0e75b6&style=flat" alt="ArthurNunis" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nunisbz&label=Profile%20views&color=0e75b6&style=flat" alt="ArthurNunis" /> </p>
 <p align="left"> <a href="https://twitter.com/nunisbz" target="blank"><img src="https://img.shields.io/twitter/follow/amorimdanilo_?logo=twitter&style=for-the-badge" alt="nunisbz" /></a> </p>
 
 <!-- ### Blogs posts -->
