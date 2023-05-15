@@ -11,15 +11,12 @@
 
 ## Connect with me:
 <p align="left">
-<!-- <a href="https://dev.to/daniloamorim" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="daniloamorim" height="30" width="40" /></a> -->
+
 <!-- <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> -->
-<!-- <a href="/https://dev.to/daniloamorim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://dev.to/daniloamorim" height="30" width="40" /></a>
 </p> -->
 <!-- <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
-<a href="https://twitter.com/amorimdanilo_" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="amorimdanilo_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/amorimdanilo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="amorimdanilo" height="30" width="40" /></a>
-<a href="https://instagram.com/amorimdanilo85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amorimdanilo85" height="30" width="40" /></a>
-<a href="https://medium.com/@amorim.danilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amorim.danilo" height="30" width="40" /></a>
+<a href="https://twitter.com/nunisbz" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="nunisbz" height="30" width="40" /></a>
+<a href="https://instagram.com/nunisbm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amorimdanilo85" height="30" width="40" /></a>
 
 ## Languages and Tools:
 <p align="left">
